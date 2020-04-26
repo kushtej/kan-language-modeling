@@ -13,15 +13,8 @@ for key, value in data.items():
                 data_dict[key]=value
 
 
-k = Counter(data_dict) 
-high = k.most_common(3) 
-
-print("Initial Dictionary:") 
-print(data_dict, "\n") 
-
-
-print("Dictionary with 3 highest values:") 
+print("Dictionary with 5 highest values:") 
 print("Keys: Values") 
 
-for i in high: 
-	print(i[0]," :",i[1]," ") 
+for i in range(4):
+        print(list(data_dict.keys())[i]+" : "+list(data_dict.values())[i])
