@@ -14,6 +14,11 @@ The front-end of the kn language modeling project can be found [here](https://gi
  
  Integrated Project Link : [https://github.com/prashanthsp6498/wordmodeling/](https://github.com/prashanthsp6498/wordmodeling)
 
+**Demo : ** 
+
+![Demo](https://github.com/prashanthsp6498/wordmodeling/blob/v0.0.1/preview/project_main.gif)
+
+
 ## Contributors
 
  - [Prashanth SP](https://github.com/prashanthsp6498)
